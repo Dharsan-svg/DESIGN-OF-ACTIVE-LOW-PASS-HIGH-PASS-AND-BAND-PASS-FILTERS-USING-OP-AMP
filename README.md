@@ -106,9 +106,10 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
 ## PROCEDURE - (LPF & HPF):
 1. Connect the circuit as shown in the circuit diagram.
 2. Select the corresponding cut-off frequency (higher or lower) and determine the value of C&R. select the value of R1 & Rf depending on desired passband gain Af..
-3. Apply a constant voltage input sinusoidal signal to the non-inverting terminal of op-amp.
-4. Tabulate the output voltage Vo with respect to different values of input frequency.
-5. Calculate passband gain and plot the graph of frequency versus voltage gain & check the graph to  get approximately the same characteristic as shown in the model graph.
+3. 
+4. Apply a constant voltage input sinusoidal signal to the non-inverting terminal of op-amp.
+5. Tabulate the output voltage Vo with respect to different values of input frequency.
+6. Calculate passband gain and plot the graph of frequency versus voltage gain & check the graph to  get approximately the same characteristic as shown in the model graph.
 
 ## PROCEDURE:BAND PASS FILTER
 1. Select the lower and higher cut-off frequency and calculate the value of R & C for the given frequencies.
